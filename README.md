@@ -44,8 +44,8 @@ A cutting-edge full-stack web application that revolutionizes investment portfol
 
 #### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/quantum-portfolio-optimizer.git
-cd quantum-portfolio-optimizer
+git clone https://github.com/sadieea/Quantum-Portfolio-Optimizer.git
+cd Quantum-Portfolio-Optimizer
 ```
 
 #### 2. Backend Setup
